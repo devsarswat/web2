@@ -189,7 +189,7 @@
     margin-top: -86px;
     text-transform: uppercase;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
    .box3-head-t{
    color: #f4ec3c;
     transform: rotate(0.75turn);
