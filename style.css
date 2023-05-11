@@ -171,7 +171,7 @@
   }
  
 .box3-head{
-   display: flex;
+   /* display: flex; */
    font-size: 170px;
    padding-left: 70px;
    /* font-weight: bolder; */
@@ -188,4 +188,15 @@
     font-size: 13px;
     margin-top: -86px;
     text-transform: uppercase;
+}
+@media only screen and (max-width: 1200px) {
+   .box3-head-t{
+   color: #f4ec3c;
+    transform: rotate(0.75turn);
+    padding-left: 107px;
+    margin-left: -4px;
+    font-size: 13px;
+    margin-top: -86px;
+    text-transform: uppercase;
+   }
 }
